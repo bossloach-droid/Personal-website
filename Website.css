@@ -1,6 +1,12 @@
-.panel{
-    height: 100px;
-    width: 150px;
-    background-color: #f0f0f0;
+.background{
+    color: #9792B8;
 }
 
+body {
+  background-color: #0D0121;
+}
+
+.panel{
+color: #3E4896
+
+}
