@@ -7,6 +7,45 @@ body {
 }
 
 .panel{
-color: #3E4896
+color: #3E4896;
+font-size: 25px;
+}
 
+header{
+    color: #9792B8;
+    font-size: 25px;
+    font-family: varela round;
+    font-weight: bold;
+
+}
+
+h2{
+    color: #9792B8;
+    font-size: 40px;
+}
+
+.about{
+    background-image: url("C:/Users/leeth/OneDrive/Documents/VS code/mrrp/Personal-website/images/background.png");
+    background-repeat: no-repeat;
+    background-size: 1100px 600px;
+    color: #9792B8;
+    font-size: 30px;
+    align-items: center;
+    width: 1100px;
+    height: 600px;
+
+}
+
+.profile {
+    color: #9792B8;
+    font-size: 40px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    width: 500px;
+}
+
+.furry {
+
+    display: inline-block;
 }
