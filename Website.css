@@ -76,6 +76,17 @@ h3{
     height: 600px;
 }
 
+.projects{
+    background-image: url("https://img.sanishtech.com/u/63f9a011871fdbfd93a0300c22212c71.png");
+    background-repeat: no-repeat;
+    background-size: 1100px 600px;
+    color: #9792B8;
+    font-size: 30px;
+    align-items: left;
+    width: 1100px;
+    height: 600px;
+} 
+
 .list{
     display: inline-block;
     text-align: center;
