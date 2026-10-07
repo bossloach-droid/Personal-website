@@ -25,7 +25,7 @@ h2{
 }
 
 .about{
-    background-image: url("https://img.sanishtech.com/u/63f9a011871fdbfd93a0300c22212c71.png");
+    background-image: url("images/background.png");
     background-repeat: no-repeat;
     background-size: 1100px 600px;
     color: #9792B8;
@@ -179,7 +179,7 @@ h2{
 }
 
 .about{
-    background-image: url("https://img.sanishtech.com/u/63f9a011871fdbfd93a0300c22212c71.png");
+    background-image: url("images/background.png");
     background-repeat: no-repeat;
     background-size: 1100px 600px;
     color: #9792B8;
@@ -220,7 +220,7 @@ h3{
 }
 
 .hobbies{
-    background-image: url("https://img.sanishtech.com/u/63f9a011871fdbfd93a0300c22212c71.png");
+    background-image: url("images/background.png");
     background-repeat: no-repeat;
     background-size: 1100px 600px;
     color: #9792B8;
@@ -231,7 +231,7 @@ h3{
 }
 
 .projects{
-    background-image: url("https://img.sanishtech.com/u/63f9a011871fdbfd93a0300c22212c71.png");
+    background-image: url("images/background.png");
     background-repeat: no-repeat;
     background-size: 1100px 600px;
     color: #9792B8;
@@ -246,4 +246,36 @@ h3{
     text-align: center;
     vertical-align: top;
     width: 500px;
+}
+
+.hackclub{
+
+    background-size: 200px 200px;
+    color: #9792B8;
+    font-size: 30px;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border: 3px none;
+    border-radius: 150px;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    ;
+}
+
+
+.projlink{
+    color: #0D0121;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-weight: bold;
+}
+.projectslink{
+    color: #0D0121;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-weight: bold;
 }
