@@ -1,2 +1,2 @@
 # Personal-website
-my own website of things and stuff
+This is my own website, it is my first time learning html and css coding, i have enjoyed making this and will continue to work on it and add stuff and hopefully replace my card with something i made entirely by me, curently it contains 4 pages (possibly more ;3), an about, projects, hobbies, and info section, it is themed around space and cool colours, enjoy and be careful when touching the stars 
