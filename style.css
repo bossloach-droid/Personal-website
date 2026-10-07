@@ -212,10 +212,21 @@ h3{
 .star{
     color: #FFDEBF;
     font-size: 30px;
+}.starinfo{
+    color: #FFDEBF;
+    font-size: 40px;
 }
 
+.dislikes{
+    color: #FFDEBF;
+    font-size: 30px;
+    position: center;
+    display: inline-block;
+}
+
+
 .dot{
-    color: #9792B8;
+    color: #6D7FB0;
     font-size: 25px;
 }
 
@@ -242,6 +253,7 @@ h3{
 } 
 
 .list{
+    color: #6D7FB0;
     display: inline-block;
     text-align: center;
     vertical-align: top;
@@ -278,4 +290,27 @@ h3{
     text-decoration: none;
     vertical-align: baseline;
     font-weight: bold;
+}
+
+.info{
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    width: 500px;
+}
+
+.inf{
+    color: #6D7FB0;
+    font-size: 35px;
+}
+
+h4{
+    color: #9792B8;
+    font-size: 50px;
+}
+
+dislist{
+    color: #6D7FB0;
+    font-size: 25px;
+    display: inline-block;
 }
