@@ -129,11 +129,11 @@ h3{
 }
 
 .secret{
-   background-color: #0D0121;
+    background-color: transparent;
     color: #0D0121;
     font-size: 25px;
     font-family: cursive;
-    border: 1px solid #0D0121;
+    border: 1px none;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -314,3 +314,19 @@ dislist{
     font-size: 25px;
     display: inline-block;
 }
+
+nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-image: url("images/header.png"); 
+  background-repeat: no-repeat;
+  background-size: 1100px 100px;
+}
+
+
+nav li {
+  float: left;
+}
+
